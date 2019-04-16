@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yepaiquiej.0atman.com/sitemap.xml
